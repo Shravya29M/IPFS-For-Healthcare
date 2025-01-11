@@ -29,15 +29,8 @@ A blockchain-based decentralized application (dApp) for secure and immutable hea
 ### Steps
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
-   ```
 
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
 
 3. Configure environment variables:
    Create a `.env` file with the following content:
